@@ -1,4 +1,0 @@
-yashpatel940516_db_user
-noLN80BbC1YP9kHr
-
-mongodb+srv://yashpatel940516_db_user:<db_password>@cluster0.owjhtax.mongodb.net/?appName=Cluster0
